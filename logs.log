@@ -1,0 +1,14 @@
+
+2018-05-24 02:23:57 INFO  HavenlyPageFactory:78 - clickFindYourStyle
+2018-05-24 02:23:57 INFO  HavenlyPageFactory:84 - clickInBetween
+2018-05-24 02:23:57 INFO  HavenlyPageFactory:90 - clickLessIsMore
+2018-05-24 02:23:58 INFO  HavenlyPageFactory:96 - clickCleanAndNeutral
+2018-05-24 02:23:58 INFO  HavenlyPageFactory:108 - clickNoLike
+2018-05-24 02:23:58 INFO  HavenlyPageFactory:102 - clickLivingRoom
+2018-05-24 02:24:29 INFO  HavenlyPageFactory:121 - findNurseryScandinavian
+2018-05-24 02:24:29 INFO  HavenlyPageFactory:128 - clickScandinavian
+2018-05-24 02:24:34 INFO  HavenlyPageFactory:134 - clickFinished
+2018-05-24 02:24:34 INFO  HavenlyPageFactory:140 - setName
+2018-05-24 02:24:34 INFO  HavenlyPageFactory:146 - setUserEmail
+2018-05-24 02:24:34 INFO  HavenlyPageFactory:152 - setPsswd
+2018-05-24 02:24:34 INFO  HavenlyPageFactory:164 - msg * Password must have a mimimum of 6 characters.
