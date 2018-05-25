@@ -19,12 +19,13 @@ import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
  
 public class ExtentReporterNG implements IReporter {
+	
     private ExtentReports extent;
  
 
     public void generateReport(List<XmlSuite> xmlSuites, List<ISuite> suites, String outputDirectory) {
+    	
         extent = new ExtentReports(outputDirectory + File.separator + "ExtentReportsTestNG.html", true);
-        System.out.println(outputDirectory + File.separator + "ExtentReportsTestNG.html");
  
         for (ISuite suite : suites) {
             Map<String, ISuiteResult> result = suite.getResults();
@@ -43,6 +44,7 @@ public class ExtentReporterNG implements IReporter {
     }
  
     private void buildTestNodes(IResultMap tests, LogStatus status) {
+    	
         ExtentTest test;
  
         if (tests.size() > 0) {
@@ -67,6 +69,7 @@ public class ExtentReporterNG implements IReporter {
     }
  
     private Date getTime(long millis) {
+    	
         Calendar calendar = Calendar.getInstance();
         calendar.setTimeInMillis(millis);
         return calendar.getTime();        
