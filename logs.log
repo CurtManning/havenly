@@ -12,3 +12,55 @@
 2018-05-24 02:24:34 INFO  HavenlyPageFactory:146 - setUserEmail
 2018-05-24 02:24:34 INFO  HavenlyPageFactory:152 - setPsswd
 2018-05-24 02:24:34 INFO  HavenlyPageFactory:164 - msg * Password must have a mimimum of 6 characters.
+2018-05-24 19:05:01 INFO  HavenlyPageFactory:78 - clickFindYourStyle
+2018-05-24 19:05:02 INFO  HavenlyPageFactory:84 - clickInBetween
+2018-05-24 19:05:02 INFO  HavenlyPageFactory:90 - clickLessIsMore
+2018-05-24 19:05:03 INFO  HavenlyPageFactory:96 - clickCleanAndNeutral
+2018-05-24 19:05:04 INFO  HavenlyPageFactory:108 - clickNoLike
+2018-05-24 19:05:05 INFO  HavenlyPageFactory:102 - clickLivingRoom
+2018-05-24 19:05:37 INFO  HavenlyPageFactory:121 - findNurseryScandinavian
+2018-05-24 19:05:38 INFO  HavenlyPageFactory:128 - clickScandinavian
+2018-05-24 19:05:48 INFO  HavenlyPageFactory:134 - clickFinished
+2018-05-24 19:05:48 INFO  HavenlyPageFactory:140 - setName
+2018-05-24 19:05:48 INFO  HavenlyPageFactory:146 - setUserEmail
+2018-05-24 19:05:48 INFO  HavenlyPageFactory:152 - setPsswd
+2018-05-24 19:05:49 INFO  HavenlyPageFactory:164 - msg * Password must have a mimimum of 6 characters.
+2018-05-25 09:36:59 INFO  HavenlyPageFactory:78 - clickFindYourStyle
+2018-05-25 09:36:59 INFO  HavenlyPageFactory:84 - clickInBetween
+2018-05-25 09:37:00 INFO  HavenlyPageFactory:90 - clickLessIsMore
+2018-05-25 09:37:01 INFO  HavenlyPageFactory:96 - clickCleanAndNeutral
+2018-05-25 09:37:01 INFO  HavenlyPageFactory:108 - clickNoLike
+2018-05-25 09:37:03 INFO  HavenlyPageFactory:102 - clickLivingRoom
+2018-05-25 09:37:33 INFO  HavenlyPageFactory:121 - findNurseryScandinavian
+2018-05-25 09:37:33 INFO  HavenlyPageFactory:128 - clickScandinavian
+2018-05-25 09:37:38 INFO  HavenlyPageFactory:134 - clickFinished
+2018-05-25 09:37:38 INFO  HavenlyPageFactory:140 - setName
+2018-05-25 09:37:39 INFO  HavenlyPageFactory:146 - setUserEmail
+2018-05-25 09:37:39 INFO  HavenlyPageFactory:152 - setPsswd
+2018-05-25 09:37:39 INFO  HavenlyPageFactory:164 - msg * Password must have a mimimum of 6 characters.
+2018-05-25 09:52:47 INFO  HavenlyPageFactory:78 - clickFindYourStyle
+2018-05-25 09:52:47 INFO  HavenlyPageFactory:84 - clickInBetween
+2018-05-25 09:52:48 INFO  HavenlyPageFactory:90 - clickLessIsMore
+2018-05-25 09:52:48 INFO  HavenlyPageFactory:96 - clickCleanAndNeutral
+2018-05-25 09:52:49 INFO  HavenlyPageFactory:108 - clickNoLike
+2018-05-25 09:52:49 INFO  HavenlyPageFactory:102 - clickLivingRoom
+2018-05-25 09:53:19 INFO  HavenlyPageFactory:121 - findNurseryScandinavian
+2018-05-25 09:53:19 INFO  HavenlyPageFactory:128 - clickScandinavian
+2018-05-25 09:53:23 INFO  HavenlyPageFactory:134 - clickFinished
+2018-05-25 09:53:24 INFO  HavenlyPageFactory:140 - setName
+2018-05-25 09:53:24 INFO  HavenlyPageFactory:146 - setUserEmail
+2018-05-25 09:53:24 INFO  HavenlyPageFactory:152 - setPsswd
+2018-05-25 09:53:24 INFO  HavenlyPageFactory:164 - msg * Password must have a mimimum of 6 characters.
+2018-05-25 10:03:30 INFO  HavenlyPageFactory:78 - clickFindYourStyle
+2018-05-25 10:03:31 INFO  HavenlyPageFactory:84 - clickInBetween
+2018-05-25 10:03:31 INFO  HavenlyPageFactory:90 - clickLessIsMore
+2018-05-25 10:03:31 INFO  HavenlyPageFactory:96 - clickCleanAndNeutral
+2018-05-25 10:03:32 INFO  HavenlyPageFactory:108 - clickNoLike
+2018-05-25 10:03:32 INFO  HavenlyPageFactory:102 - clickLivingRoom
+2018-05-25 10:04:02 INFO  HavenlyPageFactory:121 - findNurseryScandinavian
+2018-05-25 10:04:03 INFO  HavenlyPageFactory:128 - clickScandinavian
+2018-05-25 10:04:07 INFO  HavenlyPageFactory:134 - clickFinished
+2018-05-25 10:04:07 INFO  HavenlyPageFactory:140 - setName
+2018-05-25 10:04:07 INFO  HavenlyPageFactory:146 - setUserEmail
+2018-05-25 10:04:07 INFO  HavenlyPageFactory:152 - setPsswd
+2018-05-25 10:04:07 INFO  HavenlyPageFactory:164 - msg * Password must have a mimimum of 6 characters.

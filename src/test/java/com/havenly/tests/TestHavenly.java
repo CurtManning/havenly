@@ -1,4 +1,4 @@
-package com.havenly.test;
+package com.havenly.tests;
 
 import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
@@ -38,7 +38,7 @@ public class TestHavenly {
 	}
 
 	@Test
-	public void test() throws Exception {
+	public void test_survey() throws Exception {
 
 		objPage.clickFindYourStyle();
 		objPage.clickInBetween();
