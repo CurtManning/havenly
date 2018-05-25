@@ -1,7 +1,6 @@
 package com.havenly.test;
 
 import java.util.concurrent.TimeUnit;
-
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -12,10 +11,10 @@ import org.testng.annotations.BeforeClass;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.openqa.selenium.JavascriptExecutor;
-
 import com.havenly.classes.HavenlyPageFactory;
 
 public class TestHavenly {
+	
 	private WebDriver driver;
 	private JavascriptExecutor js;
 	HavenlyPageFactory objPage;
@@ -32,7 +31,6 @@ public class TestHavenly {
 		js = (JavascriptExecutor) driver;
 		objPage = new HavenlyPageFactory(driver);
 
-		// Maximize the browser window
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		PropertyConfigurator.configure("log4j.properties");
@@ -58,9 +56,7 @@ public class TestHavenly {
 		objPage.setUserEmail("Test@tester.com");
 		objPage.setPsswd("test");
 		String msg = objPage.getMessage();
-
 		Assert.assertTrue(msg.contains("* Password must have a mimimum of 6 characters."));
-		System.out.print(msg);
 	}
 
 	@AfterClass
