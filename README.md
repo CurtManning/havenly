@@ -3,6 +3,13 @@
 
 *Selenium Project using Page Factory*
 
+**Reporting**
+ * Extent Reporting
+   Navigate to folder /havenly/test-output then open ExtentReportsTestNG.html document in a browser.
+ * Surefire Emailable Report
+   Navigate to folder /havenly/test-output then open emailable-report.html in a browser.
+ * Surefire Results Report
+   Navigate to folder /havenly/test-output then open index.html in a browser.
 
 **Java 8**
 
@@ -10,6 +17,7 @@
 * TestNG
 * Log4j
 * Selenium WebDriver
+
 
 Selenium Project for Havenly job interview.
  
